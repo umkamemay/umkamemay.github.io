@@ -1,0 +1,17 @@
+# 1. Site settings
+theme: jekyll-theme-minimal
+logo: "/images/Kruglov_Victor_Headshot_2023_cropped.png"
+title: "Vitya Kruglov"
+author: "Victor Kruglov"
+email: "umkamemay@gmail.com"
+google_analytics: "UA-"
+
+
+# 2. Collection
+collections:
+  posts:
+    output: true
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  LinkedIn: https://www.linkedin.com/in/victorkruglov
+  Email: victor.kruglov@yale.edu
