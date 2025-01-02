@@ -1,5 +1,5 @@
 ## About
-Hello, I'm Vitya! I'm a 1st-year PhD student advised by [TBD](https://medicine.yale.edu/bbs/) within the [Cellular and Molecular Physiology Department](https://medicine.yale.edu/physiology/) at Yale School of Medicine. I previously worked in the [Camell Lab](https://camell.umn.edu/), the [Mills Lab](https://millslab.dana-farber.org/), and the [Barrett Lab](https://barrettlab.bwh.harvard.edu/) prior to starting graduate school, where I developed a background in immune and metabolic alterations in various disease contexts. 
+Hello, I'm Vitya! I'm a 1st-year PhD student advised by [TBD](https://medicine.yale.edu/bbs/) pursuing a degree in [Cellular and Molecular Physiology](https://medicine.yale.edu/physiology/) at Yale School of Medicine. I previously worked in the [Camell Lab](https://camell.umn.edu/), the [Mills Lab](https://millslab.dana-farber.org/), and the [Barrett Lab](https://barrettlab.bwh.harvard.edu/) prior to starting graduate school, where I developed a background in immune and metabolic alterations in various disease contexts. 
 
 Outside of the lab, I enjoy reading, listening to music, going to botanical gardens and caring for houseplants, and trying out new foods. 
 
